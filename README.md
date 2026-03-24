@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**InoxCoding/inoxcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Trương Hoàng Tuấn Anh, I am an Information Technology student focused on developing applications 
+and creating great user experiences
 
-Here are some ideas to get you started:
+💻**Favourite programing language, Framework, Library and Engine**
+- JavaSscript
+- React
+- NodeJS
+- Tailwindcss
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚔️**Favourite IDE and Text Editor**
+- Visual Studio Code
+- Cursor
+- Linux (Debian 13)
