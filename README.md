@@ -11,4 +11,3 @@ and creating great user experiences
 ⚔️**Favourite IDE and Text Editor, Tools**
 - Visual Studio Code
 - Cursor
-- Linux (Debian 13)
